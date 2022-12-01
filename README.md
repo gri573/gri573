@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm mostly developing shaders and little command-line games.
+Hello! I'm mostly developing Minecraft shaders and little command-line games.
 
 If you are looking for a shaderpack I made, do check out [Rethinking Voxels](https://github.com/gri573/rethinking-voxels).
 
